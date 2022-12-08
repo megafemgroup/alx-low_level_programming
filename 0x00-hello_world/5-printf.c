@@ -1,0 +1,11 @@
+#include <stdio.h>
+/**
+ * Description main - Print string using printf.
+ * Return: 0 if success.
+ */
+
+int main(void)
+{
+	printf("with proper grammar, but the outcome is a piece of art\,\n");
+	retur(0);
+}
