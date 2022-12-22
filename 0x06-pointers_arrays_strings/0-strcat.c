@@ -1,8 +1,11 @@
 #include "main.h"
-/*
- * Description: _strcat :concatenate two strings together
- * return : always return dest
+/**
+ * _strcat - function that copies a string.
+ * @dest: This is pointer to the destination array.
+ * @src: This is the string to be appended.
+ * Return: dest.
  */
+
 char *_strcat(char *dest, char *src)
 {
 	int i = 0;
