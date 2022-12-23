@@ -12,3 +12,4 @@ int _pow(int a, int b);
 int getnum(int num, int index);
 int getlen(int num);
 void print_number(int n);
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
