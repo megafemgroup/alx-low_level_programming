@@ -16,5 +16,6 @@ void *_calloc(unsigned int nmemb, unsigned int size);
 /* 3. Function that creates an array of integers. */
 int *array_range(int min, int max);
 /* _putchar - does what the putchar function does */
+void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 int _putchar(char c);
 #endif
